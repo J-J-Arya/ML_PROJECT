@@ -29,6 +29,7 @@ This project contains basic implementations of **Linear Regression** and **Logis
 - Python 3.x
 - NumPy
 - Matplotlib (optional, for plotting)
+- Summa (Python library) for summarization
 
 Install required packages using:
 ```bash
