@@ -12,7 +12,7 @@ This project contains basic implementations of **Linear Regression** and **Logis
 |------------------|--------------------------------------------------|
 | `linear_reg.py`  | Implements Linear Regression from scratch        |
 | `logistic_reg.py`| Implements Logistic Regression from scratch      |
-
+| `Text_Rank.py`   | Creates a summary based on a predefined summa alg|
 ---
 
 ## 🚀 Features
